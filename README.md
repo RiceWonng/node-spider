@@ -1,2 +1,3 @@
 # node-spider
-nodejs spider util and base libs
+node 爬虫经常使用的一些代码和库
+###
